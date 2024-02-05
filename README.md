@@ -5,7 +5,7 @@ The notebook aims to predict the diagnosis of breast cancer using a dataset with
 Dependencies
 
     pandas
-    numpy
+    NumPy
     scikit-learn
     matplotlib
     seaborn
